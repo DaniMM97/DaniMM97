@@ -1,33 +1,56 @@
-<h2 align="center">Hi there, I am Dani 👋</h2>
+<h2 align="center">Hi there, my name is Dani! 👋</h2>
+
+<img align="right" alt="GIF" height="150px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFkYTg4MWRkMDMyMTI2NmU2YWU3ZDUzYWExNTBjYjMxYWFmY2M4MCZjdD1n/KAq5w47R9rmTuvWOWa/giphy.gif" />
+
 Welcome to my GitHub profile!
 
 - 🌱 I’m currently learning: **Data Analysis, Data Science, Machine Learning, Big Data...**
-- 📫 How to reach me: danielmm97@gmail.com
 
-___
-<h3 align="left">Connect with me in Linkedin: </h3>
-<p align="left">
-<a href="https://linkedin.com/in/danimm97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danimm97" height="30" width="40" /></a>
-</p>
+- 📫 How to reach me:  
 
-___
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</a> 
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
-</a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-</a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-</a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+[![Email](https://img.shields.io/badge/email-danielmm97@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:danielmm97@gmail.com)
 
-___
+- 🎯 Connect with me in Linkedin:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DaniMM97-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/danimm97)
+
+---
+### Languages and Tools:
+
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://www.python.org)
+
+[![SQL](https://img.shields.io/badge/SQL-blueviolet?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
+[![Git](https://img.shields.io/badge/Git-darkred?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
+
+[![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-%234D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=101010)]()
+
+[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)]()
+
+
+---
+### Librerías python
+
+[![Pandas](https://img.shields.io/badge/Pandas-darkblue?style=for-the-badge&logo=pandas&logoColor=white&labelColor=101010)]()
+
+[![NumPy](https://img.shields.io/badge/Numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
+
+[![scikit_learn](https://img.shields.io/badge/scikit_learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010)]()
+
+[![Apache Spark](https://img.shields.io/badge/Apache_Spark-%23FF6F00?style=for-the-badge&logo=Apache-Spark&logoColor=white&labelColor=101010)]()
+
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=deezer&logoColor=white&labelColor=101010)]()
+
+[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75?style=for-the-badge&logo=Plotly&logoColor=white&labelColor=101010)]()
+
+---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniMM97&show_icons=true&locale=en&layout=compact" alt="DaniMM97" /></p>
 
-___
-### Thank you for visiting my GitHub profile!
+---
+### Thank you for visiting my GitHub profile 👾!
 Thank you for taking the time to explore my GitHub profile. If you have any questions or would like to connect, feel free to reach out to me. I appreciate your interest and support!
+
+[![GitHub](https://img.shields.io/badge/GitHub-DaniMM97-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/DaniMM97)
 
