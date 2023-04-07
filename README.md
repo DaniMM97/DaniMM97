@@ -40,6 +40,7 @@ Welcome to my GitHub profile!
 
 [![PySpark](https://img.shields.io/badge/PySpark-%23FF6F00?style=for-the-badge&logo=Apache-Spark&logoColor=white&labelColor=101010)](https://spark.apache.org/)
 
+---
 ### Main Tools:
 
 [![Git](https://img.shields.io/badge/Git-darkred?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
