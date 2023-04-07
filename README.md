@@ -44,10 +44,11 @@ Welcome to my GitHub profile!
 ### Main Tools:
 
 [![Git](https://img.shields.io/badge/Git-darkred?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter_notebook-330F63?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)](https://jupyter.org/)
 [![Google Colab](https://img.shields.io/badge/google_colab-FF4500?style=for-the-badge&logo=googlecolab&logoColor=white&labelColor=101010)](https://colab.research.google.com/?hl=es)
-[![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-%234D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=101010)]()
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)](https://code.visualstudio.com/)
+[![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-%23d9ead3?style=for-the-badge&logo=windows-terminal&logoColor=white&labelColor=101010)]()
 
 ---
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniMM97&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="DaniMM97" /></p>
